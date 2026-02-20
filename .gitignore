@@ -1,0 +1,8 @@
+/__pycache__
+/.pytest_cache
+/venv
+/praktikum/__pycache__
+.coverage
+.DS_Store
+/praktikum/.DS_Store
+/praktikum/.coverage
